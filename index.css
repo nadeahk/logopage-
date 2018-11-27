@@ -1,0 +1,24 @@
+#feature {
+  background-color:;
+  background-image:url(https://static1.squarespace.com/static/58fd82dbbf629ab224f81b68/t/5ab4f9b703ce648650f32af9/1521809852944/Lake-Kawaguchi-Tokuriki-Tomikichiro.jpg?format=1500w);
+  background-size:contain;
+  background-repeat:no-repeat; 
+  background-position:center; 
+  
+}h1 {
+    background-color: ;
+    font-family: "Times New Roman", Times, serif;
+}
+
+div {
+    background-color:; 
+}
+
+p {
+    background-color: green;
+}
+body {background-color:  ;
+      background-image: url(https://static1.squarespace.com/static/58fd82dbbf629ab224f81b68/t/5ab4f9b703ce648650f32af9/1521809852944/Lake-Kawaguchi-Tokuriki-Tomikichiro.jpg?format=1500w)}
+
+* {
+  font-family: "Times New
